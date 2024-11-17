@@ -109,7 +109,7 @@ nltk.download('wordnet')
 - **Number of Genres**: 9 (Thriller, Classics, Romance, Mystery, Science, Literature, Fantasy, Historical, Fiction)
 
 ### Performance
-- **Training Accuracy (ACC)**: 99%
+- **Training Accuracy (ACC)**: 99% (can it be more overfit?)
 - **Test Accuracy (F1)**: 75%
 
 The training accuracy is very high due to overfitting on the training data. However, the model still performs reasonably well on unseen test data with an accuracy of 75%.
